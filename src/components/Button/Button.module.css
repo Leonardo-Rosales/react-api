@@ -1,0 +1,9 @@
+.button {
+    border: none;
+    padding: 0 1rem;
+    line-height: 2.5rem;
+    background-color: orange;
+    color: white;
+    text-transform: uppercase;
+    font-size: 0.75rem;
+}
